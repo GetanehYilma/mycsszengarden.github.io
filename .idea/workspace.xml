@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2f511502-7060-47b5-ba10-a1a0abcaea3e" name="Default Changelist" comment="first commit">
-      <change beforePath="$PROJECT_DIR$/../Lab1" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab2/styleme.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab2/styleme.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../getaneh.github.io" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/bg.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Lab3.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,7 +31,6 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -56,7 +57,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1567970369435</updated>
-      <workItem from="1567970374617" duration="1483000" />
+      <workItem from="1567970374617" duration="10407000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1567970492880</created>
