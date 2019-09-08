@@ -17,7 +17,7 @@ body {
 	font: 100% georgia, sans-serif;
 	line-height: 1.88889;
 	color: #555753; 
-	background: #fff url(http://csszengarden.com/001/blossoms.jpg) no-repeat bottom right;
+	/*background: #fff url(http://csszengarden.com/001/blossoms.jpg) no-repeat bottom right;*/
 	margin: 0; 
 	padding: 0;
 	}
@@ -51,7 +51,7 @@ abbr {
 
 
 /* specific divs */
-.page-wrapper { 
+.page-wrapper {
 	/*background: url(http://csszengarden.com/001/zen-bg.jpg) no-repeat top left;*/
 	padding: 0 175px 0 110px;
 	margin: 0;
@@ -68,7 +68,6 @@ abbr {
 header {
 	padding-top: 20px;
 	margin-top: 10px;
-	/*height: 87px;*/
 }
 
 header h1 {
@@ -130,16 +129,19 @@ header h2 {
 	}
 
 footer { 
-	text-align: center; 
+	text-align: center;
+	background-color: #082d43;
+	padding-top: 50px;
+	height: 100px;
 	}
 footer a:link, footer a:visited { 
-	margin-right: 20px; 
+	margin-right: 20px;
 	}
 
 .sidebar {
 	margin-left: 600px;
 	position: absolute;
-	top: 150px;
+	top: 300px;
 	right: 0;
 	}
 .sidebar .wrapper { 
