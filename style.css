@@ -54,16 +54,20 @@ abbr {
 .page-wrapper {
 	/*background: url(http://csszengarden.com/001/zen-bg.jpg) no-repeat top left;*/
 	padding: 0 175px 0 110px;
+	padding: 10px;
 	margin: 0;
 	position: relative;
 	}
 
-.intro {
-	min-width: 470px;
-	width: 100%;
-	}
+/*.intro {*/
+/*	min-width: 470px;*/
+/*	width: 100%;*/
+/*	}*/
 .intro header {
+	margin: 0px;
+	padding: 0px;
 	background: transparent url("bg.jpg") top left;
+	width: 100%;
 }
 header {
 	padding-top: 20px;
@@ -78,6 +82,7 @@ header h1 {
 	/*height: 87px;*/
 	/*float: left;*/
 	color: white;
+	padding-top: 100px;
 
 	text-indent: 100%;
 	white-space: nowrap;
@@ -95,8 +100,8 @@ header h2 {
 	/*width: 200px; */
 	/*height: 18px; */
 	/*float: right;*/
-	padding-right: 720px;
-	padding-bottom: 100px;
+	padding-right: 940px;
+	padding-bottom: 200px;
 
 	text-indent: 100%;
 	white-space: nowrap;
@@ -107,8 +112,9 @@ header h2 {
 .summary {
 	clear: both; 
 	/*margin: 20px 20px 20px 10px;*/
-	padding: 0 300px 0 110px;
+	padding: 50px 400px 50px 150px;
 	text-shadow: maroon 1px 1px;
+	font-size: 30px;
 	/*width: 160px; */
 	/*float: left;*/
 	}
@@ -120,13 +126,38 @@ header h2 {
 .preamble {
 	/*clear: right; */
 	/*padding: 0px 10px 0 10px;*/
-	padding: 0 300px 0 0px;
+	padding: 50px 400px 70px 40px;
+	background-color: #535F51;
+	color: white;
 	}
-.supporting {
-	padding-left: 10px; 
-	margin-bottom: 40px;
-	width: 75%;
-	}
+.preamble h3 {
+	font-weight: bold;
+	line-height: 2em;
+	text-align: center;
+	color: black;
+}
+/*.supporting {*/
+/*	padding: 50px 400px 70px 40px;*/
+/*	!*margin-bottom: 40px;*!*/
+/*	!*width: 75%;*!*/
+/*	}*/
+.explanation, .participation, .benefits {
+	padding: 0px 400px 0px 40px;
+}
+.supporting h3 {
+	font-weight: bold;
+	line-height: 2em;
+	text-align: center;
+	color: black;
+}
+.requirements {
+	padding: 50px 40px 50px 40px;
+	background-color: #686868;
+	color: #fff;
+}
+.requirements h3 {
+	font-size: 30px;
+}
 
 footer { 
 	text-align: center;
@@ -141,15 +172,17 @@ footer a:link, footer a:visited {
 .sidebar {
 	margin-left: 600px;
 	position: absolute;
-	top: 300px;
+	top: 450px;
 	right: 0;
+	/*background: transparent url("sidebg.jpg") top left repeat;*/
+	background-color: #535F51;
 	}
 .sidebar .wrapper { 
 	font: 18px verdana, sans-serif;
 	/*background: transparent url(http://csszengarden.com/001/paper-bg.jpg) top left repeat;*/
 	padding: 10px; 
-	margin-top: 150px; 
-	width: 430px;
+	margin-top: 50px;
+	width: 330px;
 	}
 
 .sidebar h3.select { 

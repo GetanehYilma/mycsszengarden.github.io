@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2f511502-7060-47b5-ba10-a1a0abcaea3e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/sidebg.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/bg.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -54,7 +56,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1567970369435</updated>
-      <workItem from="1567970374617" duration="14649000" />
+      <workItem from="1567970374617" duration="18383000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1567970492880</created>
@@ -91,7 +93,14 @@
       <option name="project" value="LOCAL" />
       <updated>1567983588066</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="third commit">
+      <created>1567985439152</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1567985439152</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
